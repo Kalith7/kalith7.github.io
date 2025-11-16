@@ -56,9 +56,6 @@ Me caracterizo por:
 
 # 🚀 **Featured Projects**
 
-Cada botón te lleva directamente al repositorio.  
-Es lo que verán empresas, recruiters y hiring managers.
-
 ---
 
 ## 🗺️ **1. Geospatial Clustering with PostGIS (DBSCAN – 50m)**  
@@ -116,8 +113,8 @@ Cruce de clientes con cobertura FTTH, potencial comercial, zonas competitivas vs
 
 Si estás buscando una analista con visión técnica + negocio, estos son mis contactos:
 
-- ✉️ **karina.herrera.data@gmail.com**  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/karinaherrera  
+- ✉️ **karina.hefu@gmail.com**  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/karinaherrerafuentes  
 - 🐙 **GitHub:** https://github.com/Kalith7  
 
 ---
