@@ -101,13 +101,15 @@ Cruce de clientes con cobertura FTTH, potencial comercial, zonas competitivas vs
 
 <div align="center">
 
-### 🛠️ Languages & Tools  
-**SQL** • **Python** • **Power BI** • **PostGIS** • **BigQuery** • **QGIS** • **Git**
+<h3>🛠️ Languages &amp; Tools</h3>
 
-<br>
+<strong>SQL</strong> • <strong>Python</strong> • <strong>Power BI</strong> • <strong>PostGIS</strong> • <strong>BigQuery</strong> • <strong>QGIS</strong> • <strong>Git</strong>
 
-### ✨ Icons  
-💙 SQL | 🐍 Python | 📊 Power BI | 🗺️ PostGIS | ☁️ BigQuery | 🌍 QGIS | 🧩 Git
+<br><br>
+
+<h3>✨ Icons</h3>
+
+💙 SQL &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 📊 Power BI &nbsp; | &nbsp; 🗺️ PostGIS &nbsp; | &nbsp; ☁️ BigQuery &nbsp; | &nbsp; 🌍 QGIS &nbsp; | &nbsp; 🧩 Git
 
 </div>
 
