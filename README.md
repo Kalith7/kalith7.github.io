@@ -6,7 +6,7 @@
 
 💼 Transforming complex data into smart decisions  
 📍 Barcelona, Spain  
-🔗 [GitHub](https://github.com/Kalith7) • [LinkedIn](https://www.linkedin.com/in/karinaherrera)
+🔗 [GitHub](https://github.com/Kalith7) • [LinkedIn](https://www.linkedin.com/in/karinaherrerafuentes)
 
 ---
 
