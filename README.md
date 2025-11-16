@@ -97,15 +97,20 @@ Cruce de clientes con cobertura FTTH, potencial comercial, zonas competitivas vs
 
 ---
 
-# 🧱 **Tech Stack**
+# 🧱 Tech Stack
 
 <div align="center">
 
-| SQL | Python | Power BI | PostGIS | BigQuery | QGIS | Git |
-|-----|--------|----------|---------|----------|------|------|
-| 💙 | 🐍 | 📊 | 🗺️ | ☁️ | 🌍 | 🧩 |
+### 🛠️ Languages & Tools  
+**SQL** • **Python** • **Power BI** • **PostGIS** • **BigQuery** • **QGIS** • **Git**
+
+<br>
+
+### ✨ Icons  
+💙 SQL | 🐍 Python | 📊 Power BI | 🗺️ PostGIS | ☁️ BigQuery | 🌍 QGIS | 🧩 Git
 
 </div>
+
 
 ---
 
