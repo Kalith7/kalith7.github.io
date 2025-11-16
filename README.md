@@ -1,7 +1,7 @@
 <!-- Cabecera centrada -->
 <div align="center">
 
-# 🌟 **Karina Herrera**  
+# 🌟 **Karina Herrera Fuentes**  
 ### *Data & BI Analyst | Geospatial Analytics | SQL, Python & Power BI*
 
 💼 Transforming complex data into smart decisions  
