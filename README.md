@@ -124,7 +124,6 @@ Si estás buscando una analista con visión técnica + negocio, estos son mis co
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/karinaherrerafuentes  
 - 🐙 **GitHub:** https://github.com/Kalith7  
 
----
 
 <div align="center">
 
