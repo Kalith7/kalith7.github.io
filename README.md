@@ -128,7 +128,10 @@ Si estás buscando una analista con visión técnica + negocio, estos son mis co
 
 <div align="center">
 
-✨ *Gracias por visitar mi portfolio.*  
-**Built with GitHub Pages & ❤️**
+<hr>
+
+<p><em>© 2025 — Karina Herrera Fuentes — Data & BI Analyst — Turning data into clarity  </em></p>
+<p style="font-size:14px;">Insights • Datos • Estrategia</p>
 
 </div>
+
