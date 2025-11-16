@@ -1,20 +1,20 @@
-<!-- Cabecera centrada -->
 <div align="center">
 
-# 🌟 **Karina Herrera Fuentes**  
-### *Data & BI Analyst | Geospatial Analytics | SQL, Python & Power BI*
+<h1>🌟 Karina Herrera Fuentes</h1>
+<h3><em>Data &amp; BI Analyst | Geospatial Analytics | SQL, Python &amp; Power BI</em></h3>
 
-💼 Transforming complex data into smart decisions  
-📍 Barcelona, Spain  
-🔗 [GitHub](https://github.com/Kalith7) • [LinkedIn](https://www.linkedin.com/in/karinaherrerafuentes)
-
----
+<p>
+💼 Transforming complex data into smart decisions<br/>
+📍 Barcelona, Spain<br/>
+🔗 <a href="https://github.com/Kalith7">GitHub</a> • 
+<a href="https://www.linkedin.com/in/karinaherrerafuentes">LinkedIn</a>
+</p>
 
 </div>
 
-<br>
+---
 
-# ⚡ **About Me**
+# ⚡ About Me
 
 Soy analista de datos con experiencia en **telecomunicaciones**, análisis **geoespacial** y procesamiento de **datasets masivos**.  
 Trabajo con SQL, Python, Power BI y PostGIS para convertir datos complejos en información clara, visual y accionable.
