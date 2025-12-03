@@ -87,6 +87,18 @@ Cruce de clientes con cobertura FTTH, potencial comercial, zonas competitivas vs
 
 ---
 
+4. Operational Performance Dashboard – Providers (Power BI)
+
+Dashboard de rendimiento operativo para un entorno O&M con proveedores (2024–2025).  
+Incluye SLA global, MTTR, MTTA, distribución de incidencias por región, tendencia mensual y comparativa por proveedor.  
+Enfoque UI/UX para lectura rápida, control de objetivos y soporte a la decisión.
+
+**Tecnologías:** Power BI, DAX, Power Query, SQL.
+
+👉 [Ver dashboard (PDF)](portfolio.pdf)
+
+---
+
 # 🎯 **What I Do Best**
 
 - 💡 Transformar caos de datos en claridad  
