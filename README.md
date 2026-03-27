@@ -135,7 +135,7 @@ Enfoque UI/UX para lectura rápida, control de objetivos y soporte a la decisió
 
 Si estás buscando una analista con visión técnica + negocio, estos son mis contactos:
 
-- ✉️ **karina.hefu@gmail.com**  
+- ✉️ **karinahefu@gmail.com**  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/karinaherrerafuentes  
 - 🐙 **GitHub:** https://github.com/Kalith7  
 
